@@ -1,2 +1,2 @@
 # Windows-Counter
-Windows-Counter is a simple Counter-app made for windows
+Windows-Counter is a simple Counter app build from scratch
